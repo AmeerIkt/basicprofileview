@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task01Test03</string>
+    <string name="title_activity_page1">Page1</string>
+    <string name="greeting">Welcome to our humble application please select a famous figure to see his/her info</string>
+    <string name="jkrowelingimage">jkrowelingimage</string>
+    <string name="JKdiscrption">JKRowilng is the author of the famous book series Harry Potter</string>
+    <string name="elondisc">Elon Musk is one of the most famous entrpunor</string>
+</resources>
