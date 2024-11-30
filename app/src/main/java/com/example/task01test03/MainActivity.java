@@ -81,4 +81,8 @@ public class MainActivity extends AppCompatActivity {
             return insets;
         });
     }
+
+    private void myfunc(){
+        System.out.println("Test");
+    }
 }
