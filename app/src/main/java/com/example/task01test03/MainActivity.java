@@ -82,7 +82,4 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-    private void myfunc(){
-        System.out.println("Test");
-    }
 }
